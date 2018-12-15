@@ -48,12 +48,16 @@ main > div {
 
 img[src="images/spacecat.png"] {
   position: absolute;
-  left: -128px;
-  top: -128px;
+  left: -100px;
+  top: -100px;
+  height: 100px;
+  width: 100px;
 }
 
 img[src="images/spacedog.png"] {
   position: absolute;
-  right: -128px;
-  bottom: -128px;
+  left: -100px;
+  top: -100px;
+  height: 100px;
+  width: 100px;
 }
