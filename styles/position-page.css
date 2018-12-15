@@ -50,14 +50,14 @@ img[src="images/spacecat.png"] {
   position: absolute;
   left: -100px;
   top: -100px;
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
 }
 
 img[src="images/spacedog.png"] {
   position: absolute;
   right: -100px;
   bottom: -100px;
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
 }
