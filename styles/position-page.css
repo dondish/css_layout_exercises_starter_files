@@ -18,7 +18,7 @@ nav > img {
 nav ul {
   position: relative;
   left: 60px;
-  top: 10px;
+  top: 12.5px;
 }
 
 nav li {
@@ -28,4 +28,32 @@ nav li {
 
 nav li + li {
   border-left: 2px solid black;
+}
+
+main {
+  background-image: url('../images/outerspace_landscape.jpeg');
+  background-size: cover;
+  height: 100vh;
+}
+
+#bs {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  top: 256px;
+  width: 600px;
+  height: 300px;
+  border: green dotted 10px;
+}
+
+img[src="images/spacecat.png"] {
+  position: absolute;
+  left: -128px;
+  top: -128px;
+}
+
+img[src="images/spacedog.png"] {
+  position: absolute;
+  right: -128px;
+  bottom: -128px;
 }
