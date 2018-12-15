@@ -1,25 +1,16 @@
 #all {
   margin-top: 50px;
-  position: relative;
   margin-left: auto;
   margin-right: auto;
   width: 800px;
   font-size: 0;
 }
 
-#first {
-  height: 200px;
-}
-
-.frow {
-  display: block;
-}
-
 .fbox {
   height: 200px;
-width: 50%;
-display: inline-block;
-border: 1px solid black;
+  width: 50%;
+  display: inline-block;
+  border: 1px solid black;
 }
 
 #one {
@@ -28,10 +19,6 @@ border: 1px solid black;
 
 #two {
   background-color: blue;
-}
-
-.srow {
-  display: block;
 }
 
 .tbox {
