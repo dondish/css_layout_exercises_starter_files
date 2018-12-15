@@ -1,0 +1,55 @@
+#all {
+  margin-top: 50px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  font-size: 0;
+}
+
+#first {
+  height: 200px;
+}
+
+.frow {
+  display: block;
+}
+
+.fbox {
+  height: 200px;
+width: 50%;
+display: inline-block;
+border: 1px solid black;
+}
+
+#one {
+  background-color: green;
+}
+
+#two {
+  background-color: blue;
+}
+
+.srow {
+  display: block;
+}
+
+.tbox {
+  height: 300px;
+  width: 33.33%;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+#three {
+  background-color: gray;
+}
+
+#four {
+  background-color: black;
+}
+
+#five {
+  background-color: orange;
+
+}
